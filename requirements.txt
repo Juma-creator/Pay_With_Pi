@@ -10,7 +10,7 @@ mypy==0.961
 tqdm==v4.66.3
 boto3==1.16.21
 pymongo==4.6.3
-dnspython==2.6.1
+dnspython==2.8.0
 requests==2.32.3
 ruamel.yaml==0.17.9
 semver==2.13.0
