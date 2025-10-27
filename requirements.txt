@@ -8,7 +8,7 @@ PyYAML==6.0.1
 black==24.3.0
 mypy==0.961
 tqdm==v4.66.3
-boto3==1.16.21
+boto3==1.40.59
 pymongo==4.6.3
 dnspython==2.6.1
 requests==2.32.3
